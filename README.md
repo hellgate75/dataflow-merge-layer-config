@@ -1,4 +1,4 @@
-<p align="center"><image width="400" height="400" src="images/dataflow-merge-layer-config-logo.png"></image></p><br/>
+<p align="center"><image width="600" height="400" src="images/dataflow-merge-layer-config-logo.png"></image></p><br/>
 <br/>
 
 # dataflow-merge-layer-config
